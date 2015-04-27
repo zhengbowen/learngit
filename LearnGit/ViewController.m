@@ -20,6 +20,7 @@
     [super viewDidLoad];
     
     self.button = [[UIButton alloc]init];
+    NSLog(@"你好");
 }
 
 - (void)didReceiveMemoryWarning {
